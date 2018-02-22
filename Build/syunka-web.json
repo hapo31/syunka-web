@@ -1,0 +1,13 @@
+{
+"companyName": "happo31",
+"productName": "春夏秋冬",
+"dataUrl": "syunka-web.data.unityweb",
+"asmCodeUrl": "syunka-web.asm.code.unityweb",
+"asmMemoryUrl": "syunka-web.asm.memory.unityweb",
+"asmFrameworkUrl": "syunka-web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
